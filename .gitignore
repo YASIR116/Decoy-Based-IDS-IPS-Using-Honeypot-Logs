@@ -1,0 +1,14 @@
+cowrie/var/
+cowrie/twistd.log*
+cowrie/twistd.pid
+cowrie/cowrie-env/
+ids_project/logs/
+ids_project/__pycache__/
+ids_project/*.db
+ids_project/datasets/
+ids_project/models/
+ids_project/*.csv
+*.pyc
+__pycache__/
+.env
+venv/

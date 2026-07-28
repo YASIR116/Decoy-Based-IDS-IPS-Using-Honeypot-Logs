@@ -2,6 +2,8 @@
 
 A Machine Learning-powered Intrusion Detection and Prevention System (IDS/IPS) that integrates **Cowrie**, **Dionaea**, and **Suricata** honeypot/IDS logs to detect and automatically block malicious IPs using **Isolation Forest + Random Forest** models.
 
+Note : This project was developed collaboratively as part of a team project. This repository is maintained as part of my portfolio.
+
 ---
 
 ## 📁 Project Structure

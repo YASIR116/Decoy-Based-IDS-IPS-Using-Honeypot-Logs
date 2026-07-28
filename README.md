@@ -753,7 +753,7 @@ sudo kill $(cat /var/run/suricata.pid)
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-**Jeyabalan** — Kali Linux, VirtualBox  
+**Jeyabalan/Yasir** — Kali Linux, VirtualBox  
 Project: Decoy-Based IDS/IPS Using Honeypot Logs
